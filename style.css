@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;800&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@media (min-width: 375px) {
+  .desktop-menu {
+    display: none;
+  }
+}
+
+body {
+  position: relative;
+}
+
+.menu {
+  display: flex;
+  justify-content: end;
+  padding: 20px 35px;
+}
+
+.home-section {
+  background: url(./assets/images/background.png) no-repeat;
+  background-position: 100% 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.salutation {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Inter', sans-serif;
+  margin-top: -50px;
+}
+
+.salutation h1 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  color: #172b4d;
+}
+
+.salutation h1 span {
+  color: #36b37e;
+}
+
+.my-ability {
+  margin-top: 1.25rem;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  padding: 0 26px;
+  font-family: 'Inter', sans-serif;
+  color: #172b4d;
+}
+
+.social-media-links ul {
+  display: flex;
+  gap: 3px;
+  margin-top: 1.25rem;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-media-links ul li a {
+  text-decoration: none;
+}
