@@ -105,7 +105,7 @@ If you like this project you can go ahead give a star to the repository.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I give thanks to Microverse community for investing in me. I;m looking forth to building more projects
+I give thanks to Microverse community for investing in me. I am looking forth to building more projects
 
 ## 📝 License <a name="license"></a>
 
