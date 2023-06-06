@@ -10,6 +10,7 @@
 body {
   position: relative;
   font-family: 'Inter', sans-serif;
+  margin-bottom: 5%;
 }
 
 @media (min-width: 375px) {
@@ -25,12 +26,13 @@ body {
 
   .home-section {
     background: url(./assets/images/background.png) no-repeat;
-    background-position: 100% 0;
     height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-position: center;
+    background-size: cover;
   }
 
   .salutation {
@@ -77,10 +79,8 @@ body {
   }
 
   .my-achievements {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
     height: auto;
   }
 
@@ -242,7 +242,7 @@ body {
   .my-ability-display-list {
     list-style: none;
     display: grid;
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: 1fr; /* One column */
     gap: 20px;
   }
 
@@ -325,4 +325,11 @@ body {
   .my-ability-display-list {
     grid-template-columns: repeat(3, 1fr);
   }
+}
+
+.scroller {
+  display: flex;
+  justify-content: center;
+  margin-top: 2px;
+  margin-bottom: 2px;
 }
