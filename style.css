@@ -25,12 +25,13 @@ body {
 
 .home-section {
   background: url(./assets/images/background.png) no-repeat;
-  background-position: 100% 0;
+  background-position: center;
   height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-size: cover;
 }
 
 .salutation {
