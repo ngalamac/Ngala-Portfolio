@@ -42,6 +42,17 @@ body {
     align-items: center;
     margin-top: -50px;
   }
+  
+.home-section {
+  background: url(./assets/images/background.png) no-repeat;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+}
 
   .salutation h1 {
     text-align: center;
