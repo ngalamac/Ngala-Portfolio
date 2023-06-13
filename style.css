@@ -251,7 +251,7 @@ body {
     flex-direction: column;
   }
 
-  .skill-list {
+  .my-ability-display-list {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -263,7 +263,7 @@ body {
     border-radius: 8px;
   }
 
-  .skill-list h3 {
+  .my-ability-display-list h3 {
     width: 22.31rem;
     height: 32px;
     font-weight: 600;
@@ -274,7 +274,7 @@ body {
     margin: -20px 0 20px 0;
   }
 
-  .my-ability-display-list .skill-list ul {
+  .my-ability-display-list .my-ability-display-list ul {
     list-style-type: none;
     display: flex;
     justify-content: center;
@@ -285,7 +285,7 @@ body {
     gap: 9px;
   }
 
-  .my-ability-display-list .skill-list li {
+  .my-ability-display-list .my-ability-display-list li {
     font-weight: 600;
     font-size: 12px;
     line-height: 16px;
