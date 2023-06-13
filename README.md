@@ -17,7 +17,7 @@
 
 This webpage shows a sneak peek into the project I have developed and deployed, showcasing my skills in HTML and CSS. A mobile responsive portfolio landing page.
 
-**[Mobile Portfolio Project]** is an HTML and CSS project
+**[Complete Mobile Portfolio Project with Contact Form]** is an HTML and CSS project
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -88,6 +88,9 @@ You can deploy this project using:
 - GitHub: [ngalamac](https://github.com/ngalamac/Ngala-Portfolio.git)
 - LinkedIn: [Ngala Mac](https://www.linkedin.com/in/ngala-mac-872a65220/)
 
+👤 **Feyisa Kedir**
+
+- GitHub: [Feyisa](https://github.com/feyisakedir)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
