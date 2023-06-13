@@ -411,41 +411,40 @@ footer p {
 footer .social-media-links {
   margin-bottom: 20px;
 }
-}
 
 @media (min-width: 600px) {
-.background-extreme-bottom-corner {
-  top: 10rem;
-}
+  .background-extreme-bottom-corner {
+    top: 10rem;
+  }
 }
 
 @media (min-width: 768px) {
-.achievements-container {
-  grid-template-columns: repeat(2, 1fr);
-}
+  .achievements-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
 
-.my-ability-display-list {
-  grid-template-columns: repeat(2, 1fr);
-}
+  .my-ability-display-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 @media (min-width: 1028px) {
-.achievements-container {
-  grid-template-columns: repeat(3, 1fr);
-}
+  .achievements-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
 
-.my-ability-display-list {
-  grid-template-columns: repeat(3, 1fr);
-}
+  .my-ability-display-list {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 footer .division {
   text-align: center;
-  border:2px solid #495056;
+  border: 2px solid #495056;
   border-radius: 8px;
   background-color: #495056;
-  margin: 0px auto;
+  margin: 0 auto;
   margin-top: 20px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
   width: 152px;
 }
