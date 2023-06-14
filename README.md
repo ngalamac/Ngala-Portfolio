@@ -13,7 +13,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Mobile Portfolio Project <a name="about-project"></a>
+# 📖 Finish Mobile version Portfolio Project with Contact Form <a name="about-project"></a>
 
 This webpage shows a sneak peek into the project I have developed and deployed, showcasing my skills in HTML and CSS. A mobile responsive portfolio landing page.
 
@@ -88,6 +88,9 @@ You can deploy this project using:
 - GitHub: [ngalamac](https://github.com/ngalamac/Ngala-Portfolio.git)
 - LinkedIn: [Ngala Mac](https://www.linkedin.com/in/ngala-mac-872a65220/)
 
+👤 **Feyisa Kedir**
+
+- GitHub: [Feyisa](https://github.com/ngalamac/Ngala-Portfolio.git)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
