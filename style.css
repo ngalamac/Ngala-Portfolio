@@ -66,7 +66,7 @@ body {
 
   .social-media-links ul {
     display: flex;
-    gap: 20px;
+    gap: 5px;
     margin-top: 1.25rem;
     list-style: none;
     justify-content: center;
@@ -414,7 +414,7 @@ footer .divide {
   margin: 0 auto;
   margin-top: 20px;
   margin-bottom: 0;
-  width: 152px;
+  width: 148px;
 }
 
 .scroller {
