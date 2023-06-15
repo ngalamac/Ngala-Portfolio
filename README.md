@@ -13,11 +13,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Finish Mobile version Portfolio Project with Contact Form <a name="about-project"></a>
+# 📖 Portfolio Project: Desktop version<a name="about-project"></a>
 
 This webpage shows a sneak peek into the project I have developed and deployed, showcasing my skills in HTML and CSS. A mobile responsive portfolio landing page.
 
-**[Mobile Portfolio Project]** is an HTML and CSS project
+**[Desktop Portfolio Project]** is an HTML and CSS project
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -27,7 +27,7 @@ This webpage shows a sneak peek into the project I have developed and deployed, 
 - CSS
 
 ### Key Features <a name="key-features"></a>
-- **A mobile responsive page with a minimum width of 375px**
+- **A desktop responsive page with a minimum width of 375px**
 - **Well designed figma template transformed to a real webpage through codes**
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -87,10 +87,6 @@ You can deploy this project using:
 
 - GitHub: [ngalamac](https://github.com/ngalamac/Ngala-Portfolio.git)
 - LinkedIn: [Ngala Mac](https://www.linkedin.com/in/ngala-mac-872a65220/)
-
-👤 **Feyisa Kedir**
-
-- GitHub: [Feyisa](https://github.com/ngalamac/Ngala-Portfolio.git)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
