@@ -191,7 +191,7 @@ body {
     align-items: center;
     text-align: center;
     letter-spacing: 0.03em;
-    
+    transition: box-shadow 0.3s ease;
   }
 
   .the-button:hover {
