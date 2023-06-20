@@ -80,7 +80,7 @@ You can deploy this project using:
   netlify
   vercel
 ```
-
+You can click on this link to [view site](https://ngalamac.github.io/Ngala-Portfolio/) and examine its features.
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Ngala Mac**
