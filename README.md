@@ -15,7 +15,7 @@
 
 # 📖 Portfolio Project: Desktop version<a name="about-project"></a>
 
-This webpage shows a sneak peek into the project I have developed and deployed, showcasing my skills in HTML and CSS. A mobile responsive portfolio landing page.
+This webpage shows a sneak peek into the project I have developed and deployed, showcasing my skills in HTML and CSS. A mobile and desktop responsive portfolio landing page. Please watch this [introductory video](https://www.loom.com/share/fea0296fdf674e5e9debfb5799d64564?sid=d508f8af-d3b0-4062-acdd-23e586a512f0) to learn more about this project.
 
 **[Desktop Portfolio Project]** is an HTML and CSS project
 
